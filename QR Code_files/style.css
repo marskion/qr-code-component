@@ -1,0 +1,38 @@
+body{
+    background-color:#d5e1ef;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+div{
+    width: 320px;
+    background-color: white;
+    margin: auto;
+    padding: 16px;
+    border-radius: 20px;
+}
+
+img{
+    max-width: 100%;
+    border-radius: 20px;
+
+}
+h1{
+    font-size: 22px;
+    font-family: 'Outfit';
+    font-weight: 700;
+    text-align: center;
+    color:#1F314F;
+    top: calc(50% - 56px/2 - 36.5px);
+}
+
+p{font-size: 15px;
+    text-align: center;
+    letter-spacing: 0.19px;
+    line-height: 18.9px;
+    size: 15px;
+    font-weight: 400;
+    color: #7d889e;
+}
